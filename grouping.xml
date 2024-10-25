@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+
+    <listeners>
+        <listener class-name="Utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test name="OpenCart Test">
+
+        <parameter name="os" value="Windows" />
+        <parameter name="br" value="chrome"/>
+
+        <groups>
+            <run>
+                <include name="Master"/>
+                <include name="Sanity"/>
+                <include name="Regression"/>
+                <include name="Monkey"/>
+                <include name="Gorilla"/>
+                <include name="Smoke"/>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="TestCases.RegistrationPageTest"/>
+            <class name="TestCases.LoginPageTest"/>
+            <class name="TestCases.LoginTestDDT"/>
+            <class name="TestCases.SearchPageTest"/>
+            <class name="TestCases.AddToCartPageTest"/>
+        </classes>
+    </test>
+</suite>

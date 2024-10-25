@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" verbose="1" preserve-order="true">
+
+    <listeners>
+        <listener class-name="Utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test name="Chrome Test">
+        <parameter name="os" value="Windows"/>
+        <parameter name="br" value="chrome"/>
+        <classes>
+            <class name="TestCases.RegistrationPageTest"/>
+            <class name="TestCases.LoginPageTest"/>
+            <class name="TestCases.LoginTestDDT"/>
+            <class name="TestCases.SearchPageTest"/>
+            <class name="TestCases.AddToCartPageTest"/>
+        </classes>
+    </test>
+    <test name="Edge Test">
+        <parameter name="os" value="Windows"/>
+        <parameter name="br" value="edge"/>
+        <classes>
+            <class name="TestCases.RegistrationPageTest"/>
+            <class name="TestCases.LoginPageTest"/>
+            <class name="TestCases.LoginTestDDT"/>
+            <class name="TestCases.SearchPageTest"/>
+            <class name="TestCases.AddToCartPageTest"/>
+        </classes>
+    </test>
+    <test name="Firefox Test">
+        <parameter name="os" value="Windows"/>
+        <parameter name="br" value="firefox"/>
+        <classes>
+            <class name="TestCases.RegistrationPageTest"/>
+            <class name="TestCases.LoginPageTest"/>
+            <class name="TestCases.LoginTestDDT"/>
+            <class name="TestCases.SearchPageTest"/>
+            <class name="TestCases.AddToCartPageTest"/>
+        </classes>
+    </test>
+</suite>
