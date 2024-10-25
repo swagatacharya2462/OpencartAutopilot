@@ -3111,3 +3111,670 @@ Session ID: 546bb24d-9a36-484e-b61c-7a93c8a33406
 2024-10-25 12:00:15 INFO  AddToCartPageTest:125 - Continued shopping after updating cart details
 2024-10-25 12:00:15 INFO  AddToCartPageTest:136 - **** Finished Cart Update Test ****
 2024-10-25 12:00:16 INFO  AddToCartPageTest:104 - Closed the browser.
+2024-10-25 17:13:46 WARN  TestNG:133 - Ignoring duplicate listener : Utilities.ExtentReportManager
+2024-10-25 17:13:46 WARN  TestNG:133 - Ignoring duplicate listener : Utilities.ExtentReportManager
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 22 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-25 17:13:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-25 17:13:47 INFO  RegistrationPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:13:47 INFO  RegistrationPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:13:51 INFO  RegistrationPageTest:65 - Launching Chrome browser...
+2024-10-25 17:13:51 INFO  RegistrationPageTest:82 - Deleted all cookies.
+2024-10-25 17:13:51 INFO  RegistrationPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:13:51 INFO  RegistrationPageTest:89 - Maximized browser window.
+2024-10-25 17:13:54 INFO  RegistrationPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:13:54 INFO  RegistrationPageTest:21 - **** Starting Registration Test ****
+2024-10-25 17:13:54 INFO  RegistrationPageTest:26 - Clicking on My Account link...
+2024-10-25 17:13:54 INFO  RegistrationPageTest:28 - Clicked on MyAccount Link
+2024-10-25 17:13:54 INFO  RegistrationPageTest:30 - Clicking on Register link...
+2024-10-25 17:13:54 INFO  RegistrationPageTest:32 - Clicked on Register Link
+2024-10-25 17:13:54 INFO  RegistrationPageTest:36 - Providing customer details...
+2024-10-25 17:13:54 INFO  RegistrationPageTest:40 - First Name: XVRAF
+2024-10-25 17:13:55 INFO  RegistrationPageTest:44 - Last Name: JAYAF
+2024-10-25 17:13:55 INFO  RegistrationPageTest:48 - Email: SKwKw@gmail.com
+2024-10-25 17:13:55 INFO  RegistrationPageTest:52 - Telephone: 3422447713
+2024-10-25 17:13:55 INFO  RegistrationPageTest:56 - Password: Vxy@050
+2024-10-25 17:13:55 INFO  RegistrationPageTest:61 - Selecting 'Yes' for newsletter subscription and accepting terms and conditions...
+2024-10-25 17:13:56 INFO  RegistrationPageTest:65 - Clicked on Continue button
+2024-10-25 17:13:56 INFO  RegistrationPageTest:68 - Validating expected confirmation message...
+2024-10-25 17:13:56 INFO  RegistrationPageTest:72 - Test Passed: Your Account Has Been Created!
+2024-10-25 17:13:56 INFO  RegistrationPageTest:77 - **** Finished Registration Test ****
+2024-10-25 17:13:56 INFO  RegistrationPageTest:104 - Closed the browser.
+2024-10-25 17:13:56 INFO  LoginPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:13:56 INFO  LoginPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:13:57 INFO  LoginPageTest:65 - Launching Chrome browser...
+2024-10-25 17:13:57 INFO  LoginPageTest:82 - Deleted all cookies.
+2024-10-25 17:13:57 INFO  LoginPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:13:57 INFO  LoginPageTest:89 - Maximized browser window.
+2024-10-25 17:14:00 INFO  LoginPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:14:00 INFO  LoginPageTest:22 - **** Starting Login Test ****
+2024-10-25 17:14:00 INFO  LoginPageTest:27 - Clicking on My Account link...
+2024-10-25 17:14:00 INFO  LoginPageTest:29 - Clicked on MyAccount Link
+2024-10-25 17:14:00 INFO  LoginPageTest:31 - Clicking on Login link...
+2024-10-25 17:14:00 INFO  LoginPageTest:33 - Clicked on Login Link
+2024-10-25 17:14:00 INFO  LoginPageTest:37 - Providing customer email and password
+2024-10-25 17:14:00 INFO  LoginPageTest:41 - Email provided: diweh61568@kinsef.com
+2024-10-25 17:14:00 INFO  LoginPageTest:43 - Password provided: test@123
+2024-10-25 17:14:00 INFO  LoginPageTest:45 - Clicking on Login button...
+2024-10-25 17:14:01 INFO  LoginPageTest:47 - Clicked on Login button
+2024-10-25 17:14:01 INFO  LoginPageTest:51 - Checking if My Account page exists...
+2024-10-25 17:14:01 INFO  LoginPageTest:57 - Login successful, My Account page is displayed.
+2024-10-25 17:14:01 INFO  LoginPageTest:64 - **** Finished Login Test ****
+2024-10-25 17:14:01 INFO  LoginPageTest:104 - Closed the browser.
+2024-10-25 17:14:01 INFO  LoginTestDDT:52 - Initializing WebDriver setup...
+2024-10-25 17:14:01 INFO  LoginTestDDT:59 - Loaded configuration properties from config.properties
+2024-10-25 17:14:02 INFO  LoginTestDDT:65 - Launching Chrome browser...
+2024-10-25 17:14:02 INFO  LoginTestDDT:82 - Deleted all cookies.
+2024-10-25 17:14:02 INFO  LoginTestDDT:85 - Set implicit wait and page load timeout.
+2024-10-25 17:14:02 INFO  LoginTestDDT:89 - Maximized browser window.
+2024-10-25 17:14:05 INFO  LoginTestDDT:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:14:06 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: diweh61568@kinsef.com ****
+2024-10-25 17:14:08 INFO  LoginTestDDT:49 - **** Login successful, validating logout ****
+2024-10-25 17:14:10 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: diweh61568@kinsef.com ****
+2024-10-25 17:14:10 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: laksh1256@gmail.com ****
+2024-10-25 17:14:21 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:14:21 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: laksh1256@gmail.com ****
+2024-10-25 17:14:21 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: richard786@yahoo.com ****
+2024-10-25 17:14:32 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:14:32 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: richard786@yahoo.com ****
+2024-10-25 17:14:32 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: gamlin123@rediff.com ****
+2024-10-25 17:14:44 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:14:44 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: gamlin123@rediff.com ****
+2024-10-25 17:14:44 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: sotopiy466@chainds.com ****
+2024-10-25 17:14:45 INFO  LoginTestDDT:49 - **** Login successful, validating logout ****
+2024-10-25 17:14:46 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: sotopiy466@chainds.com ****
+2024-10-25 17:14:46 INFO  LoginTestDDT:104 - Closed the browser.
+2024-10-25 17:14:47 INFO  SearchPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:14:47 INFO  SearchPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:14:48 INFO  SearchPageTest:65 - Launching Chrome browser...
+2024-10-25 17:14:48 INFO  SearchPageTest:82 - Deleted all cookies.
+2024-10-25 17:14:48 INFO  SearchPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:14:48 INFO  SearchPageTest:89 - Maximized browser window.
+2024-10-25 17:14:50 INFO  SearchPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:14:50 INFO  SearchPageTest:23 - **** Starting Product Search Test ****
+2024-10-25 17:14:50 INFO  SearchPageTest:28 - Product to be searched: iMac
+2024-10-25 17:14:50 INFO  SearchPageTest:32 - Searching for product 'iMac'...
+2024-10-25 17:14:51 INFO  SearchPageTest:36 - Search term entered: iMac
+2024-10-25 17:14:51 INFO  SearchPageTest:38 - Search submitted
+2024-10-25 17:14:51 INFO  SearchPageTest:41 - Waiting for search results to load...
+2024-10-25 17:14:56 INFO  SearchPageTest:46 - Verifying if the product 'iMac' exists in the search results
+2024-10-25 17:14:56 INFO  SearchPageTest:50 - Product existence check result: true
+2024-10-25 17:14:56 INFO  SearchPageTest:55 - Product 'iMac' is displayed in the search results
+2024-10-25 17:14:56 INFO  SearchPageTest:63 - **** Finished Product Search Test ****
+2024-10-25 17:14:56 INFO  SearchPageTest:104 - Closed the browser.
+2024-10-25 17:14:56 INFO  AddToCartPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:14:56 INFO  AddToCartPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:14:57 INFO  AddToCartPageTest:65 - Launching Chrome browser...
+2024-10-25 17:14:57 INFO  AddToCartPageTest:82 - Deleted all cookies.
+2024-10-25 17:14:57 INFO  AddToCartPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:14:57 INFO  AddToCartPageTest:89 - Maximized browser window.
+2024-10-25 17:15:00 INFO  AddToCartPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:15:00 INFO  AddToCartPageTest:22 - **** Starting Add to Cart Test ****
+2024-10-25 17:15:00 INFO  AddToCartPageTest:27 - Attempting to search for product: iMac
+2024-10-25 17:15:00 INFO  AddToCartPageTest:31 - HomePage initialized successfully
+2024-10-25 17:15:00 INFO  AddToCartPageTest:36 - Search submitted for product: iMac
+2024-10-25 17:15:02 INFO  AddToCartPageTest:43 - SearchPage initialized successfully, verifying product existence
+2024-10-25 17:15:02 INFO  AddToCartPageTest:47 - Product 'iMac' found in search results, attempting to add to cart
+2024-10-25 17:15:02 INFO  AddToCartPageTest:49 - Product added to cart successfully
+2024-10-25 17:15:05 INFO  AddToCartPageTest:55 - Navigated to the shopping cart page successfully
+2024-10-25 17:15:05 INFO  AddToCartPageTest:75 - **** Finished Add to Cart Test ****
+2024-10-25 17:15:05 INFO  AddToCartPageTest:93 - **** Starting Cart Update Test ****
+2024-10-25 17:15:05 INFO  AddToCartPageTest:97 - AddToCartPage initialized successfully
+2024-10-25 17:15:05 INFO  AddToCartPageTest:105 - Product quantity updated to: 2
+2024-10-25 17:15:06 INFO  AddToCartPageTest:111 - Shipping details set - Country: India, State: Orissa, Postcode: 754109
+2024-10-25 17:15:06 INFO  AddToCartPageTest:114 - Shipping quote retrieved successfully
+2024-10-25 17:15:07 INFO  AddToCartPageTest:119 - Shipping method applied successfully
+2024-10-25 17:15:08 INFO  AddToCartPageTest:125 - Continued shopping after updating cart details
+2024-10-25 17:15:08 INFO  AddToCartPageTest:136 - **** Finished Cart Update Test ****
+2024-10-25 17:15:08 INFO  AddToCartPageTest:104 - Closed the browser.
+2024-10-25 17:15:09 INFO  RegistrationPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:15:09 INFO  RegistrationPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:15:10 INFO  RegistrationPageTest:65 - Launching Chrome browser...
+2024-10-25 17:15:10 INFO  RegistrationPageTest:82 - Deleted all cookies.
+2024-10-25 17:15:10 INFO  RegistrationPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:15:10 INFO  RegistrationPageTest:89 - Maximized browser window.
+2024-10-25 17:15:12 INFO  RegistrationPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:15:12 INFO  RegistrationPageTest:21 - **** Starting Registration Test ****
+2024-10-25 17:15:12 INFO  RegistrationPageTest:26 - Clicking on My Account link...
+2024-10-25 17:15:13 INFO  RegistrationPageTest:28 - Clicked on MyAccount Link
+2024-10-25 17:15:13 INFO  RegistrationPageTest:30 - Clicking on Register link...
+2024-10-25 17:15:13 INFO  RegistrationPageTest:32 - Clicked on Register Link
+2024-10-25 17:15:13 INFO  RegistrationPageTest:36 - Providing customer details...
+2024-10-25 17:15:13 INFO  RegistrationPageTest:40 - First Name: NMVAX
+2024-10-25 17:15:13 INFO  RegistrationPageTest:44 - Last Name: CDAVW
+2024-10-25 17:15:13 INFO  RegistrationPageTest:48 - Email: DAQmo@gmail.com
+2024-10-25 17:15:13 INFO  RegistrationPageTest:52 - Telephone: 9589889553
+2024-10-25 17:15:14 INFO  RegistrationPageTest:56 - Password: Pyt@881
+2024-10-25 17:15:14 INFO  RegistrationPageTest:61 - Selecting 'Yes' for newsletter subscription and accepting terms and conditions...
+2024-10-25 17:15:15 INFO  RegistrationPageTest:65 - Clicked on Continue button
+2024-10-25 17:15:15 INFO  RegistrationPageTest:68 - Validating expected confirmation message...
+2024-10-25 17:15:15 INFO  RegistrationPageTest:72 - Test Passed: Your Account Has Been Created!
+2024-10-25 17:15:15 INFO  RegistrationPageTest:77 - **** Finished Registration Test ****
+2024-10-25 17:15:15 INFO  RegistrationPageTest:104 - Closed the browser.
+2024-10-25 17:15:15 INFO  LoginPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:15:15 INFO  LoginPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:15:16 INFO  LoginPageTest:65 - Launching Chrome browser...
+2024-10-25 17:15:16 INFO  LoginPageTest:82 - Deleted all cookies.
+2024-10-25 17:15:16 INFO  LoginPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:15:16 INFO  LoginPageTest:89 - Maximized browser window.
+2024-10-25 17:15:18 INFO  LoginPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:15:18 INFO  LoginPageTest:22 - **** Starting Login Test ****
+2024-10-25 17:15:18 INFO  LoginPageTest:27 - Clicking on My Account link...
+2024-10-25 17:15:18 INFO  LoginPageTest:29 - Clicked on MyAccount Link
+2024-10-25 17:15:18 INFO  LoginPageTest:31 - Clicking on Login link...
+2024-10-25 17:15:18 INFO  LoginPageTest:33 - Clicked on Login Link
+2024-10-25 17:15:18 INFO  LoginPageTest:37 - Providing customer email and password
+2024-10-25 17:15:19 INFO  LoginPageTest:41 - Email provided: diweh61568@kinsef.com
+2024-10-25 17:15:19 INFO  LoginPageTest:43 - Password provided: test@123
+2024-10-25 17:15:19 INFO  LoginPageTest:45 - Clicking on Login button...
+2024-10-25 17:15:19 INFO  LoginPageTest:47 - Clicked on Login button
+2024-10-25 17:15:19 INFO  LoginPageTest:51 - Checking if My Account page exists...
+2024-10-25 17:15:19 INFO  LoginPageTest:57 - Login successful, My Account page is displayed.
+2024-10-25 17:15:19 INFO  LoginPageTest:64 - **** Finished Login Test ****
+2024-10-25 17:15:20 INFO  LoginPageTest:104 - Closed the browser.
+2024-10-25 17:15:20 INFO  LoginTestDDT:52 - Initializing WebDriver setup...
+2024-10-25 17:15:20 INFO  LoginTestDDT:59 - Loaded configuration properties from config.properties
+2024-10-25 17:15:20 INFO  LoginTestDDT:65 - Launching Chrome browser...
+2024-10-25 17:15:21 INFO  LoginTestDDT:82 - Deleted all cookies.
+2024-10-25 17:15:21 INFO  LoginTestDDT:85 - Set implicit wait and page load timeout.
+2024-10-25 17:15:21 INFO  LoginTestDDT:89 - Maximized browser window.
+2024-10-25 17:15:23 INFO  LoginTestDDT:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:15:23 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: diweh61568@kinsef.com ****
+2024-10-25 17:15:25 INFO  LoginTestDDT:49 - **** Login successful, validating logout ****
+2024-10-25 17:15:25 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: diweh61568@kinsef.com ****
+2024-10-25 17:15:25 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: laksh1256@gmail.com ****
+2024-10-25 17:15:36 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:15:36 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: laksh1256@gmail.com ****
+2024-10-25 17:15:36 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: richard786@yahoo.com ****
+2024-10-25 17:15:48 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:15:48 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: richard786@yahoo.com ****
+2024-10-25 17:15:48 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: gamlin123@rediff.com ****
+2024-10-25 17:16:00 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:16:00 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: gamlin123@rediff.com ****
+2024-10-25 17:16:00 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: sotopiy466@chainds.com ****
+2024-10-25 17:16:02 INFO  LoginTestDDT:49 - **** Login successful, validating logout ****
+2024-10-25 17:16:02 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: sotopiy466@chainds.com ****
+2024-10-25 17:16:03 INFO  LoginTestDDT:104 - Closed the browser.
+2024-10-25 17:16:03 INFO  SearchPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:16:03 INFO  SearchPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:16:03 INFO  SearchPageTest:65 - Launching Chrome browser...
+2024-10-25 17:16:03 INFO  SearchPageTest:82 - Deleted all cookies.
+2024-10-25 17:16:03 INFO  SearchPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:16:04 INFO  SearchPageTest:89 - Maximized browser window.
+2024-10-25 17:16:06 INFO  SearchPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:16:06 INFO  SearchPageTest:23 - **** Starting Product Search Test ****
+2024-10-25 17:16:06 INFO  SearchPageTest:28 - Product to be searched: iMac
+2024-10-25 17:16:06 INFO  SearchPageTest:32 - Searching for product 'iMac'...
+2024-10-25 17:16:06 INFO  SearchPageTest:36 - Search term entered: iMac
+2024-10-25 17:16:07 INFO  SearchPageTest:38 - Search submitted
+2024-10-25 17:16:07 INFO  SearchPageTest:41 - Waiting for search results to load...
+2024-10-25 17:16:12 INFO  SearchPageTest:46 - Verifying if the product 'iMac' exists in the search results
+2024-10-25 17:16:12 INFO  SearchPageTest:50 - Product existence check result: true
+2024-10-25 17:16:12 INFO  SearchPageTest:55 - Product 'iMac' is displayed in the search results
+2024-10-25 17:16:12 INFO  SearchPageTest:63 - **** Finished Product Search Test ****
+2024-10-25 17:16:12 INFO  SearchPageTest:104 - Closed the browser.
+2024-10-25 17:16:12 INFO  AddToCartPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:16:12 INFO  AddToCartPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:16:13 INFO  AddToCartPageTest:65 - Launching Chrome browser...
+2024-10-25 17:16:13 INFO  AddToCartPageTest:82 - Deleted all cookies.
+2024-10-25 17:16:13 INFO  AddToCartPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:16:13 INFO  AddToCartPageTest:89 - Maximized browser window.
+2024-10-25 17:16:17 INFO  AddToCartPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:16:17 INFO  AddToCartPageTest:22 - **** Starting Add to Cart Test ****
+2024-10-25 17:16:17 INFO  AddToCartPageTest:27 - Attempting to search for product: iMac
+2024-10-25 17:16:17 INFO  AddToCartPageTest:31 - HomePage initialized successfully
+2024-10-25 17:16:17 INFO  AddToCartPageTest:36 - Search submitted for product: iMac
+2024-10-25 17:16:19 INFO  AddToCartPageTest:43 - SearchPage initialized successfully, verifying product existence
+2024-10-25 17:16:20 INFO  AddToCartPageTest:47 - Product 'iMac' found in search results, attempting to add to cart
+2024-10-25 17:16:20 INFO  AddToCartPageTest:49 - Product added to cart successfully
+2024-10-25 17:16:22 INFO  AddToCartPageTest:55 - Navigated to the shopping cart page successfully
+2024-10-25 17:16:22 INFO  AddToCartPageTest:75 - **** Finished Add to Cart Test ****
+2024-10-25 17:16:22 INFO  AddToCartPageTest:93 - **** Starting Cart Update Test ****
+2024-10-25 17:16:22 INFO  AddToCartPageTest:97 - AddToCartPage initialized successfully
+2024-10-25 17:16:22 INFO  AddToCartPageTest:105 - Product quantity updated to: 2
+2024-10-25 17:16:23 INFO  AddToCartPageTest:111 - Shipping details set - Country: India, State: Orissa, Postcode: 754109
+2024-10-25 17:16:23 INFO  AddToCartPageTest:114 - Shipping quote retrieved successfully
+2024-10-25 17:16:24 INFO  AddToCartPageTest:119 - Shipping method applied successfully
+2024-10-25 17:16:24 INFO  AddToCartPageTest:125 - Continued shopping after updating cart details
+2024-10-25 17:16:24 INFO  AddToCartPageTest:136 - **** Finished Cart Update Test ****
+2024-10-25 17:16:24 INFO  AddToCartPageTest:104 - Closed the browser.
+2024-10-25 17:16:25 INFO  RegistrationPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:16:25 INFO  RegistrationPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:16:26 INFO  RegistrationPageTest:65 - Launching Chrome browser...
+2024-10-25 17:16:26 INFO  RegistrationPageTest:82 - Deleted all cookies.
+2024-10-25 17:16:26 INFO  RegistrationPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:16:26 INFO  RegistrationPageTest:89 - Maximized browser window.
+2024-10-25 17:16:28 INFO  RegistrationPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:16:28 INFO  RegistrationPageTest:21 - **** Starting Registration Test ****
+2024-10-25 17:16:28 INFO  RegistrationPageTest:26 - Clicking on My Account link...
+2024-10-25 17:16:28 INFO  RegistrationPageTest:28 - Clicked on MyAccount Link
+2024-10-25 17:16:28 INFO  RegistrationPageTest:30 - Clicking on Register link...
+2024-10-25 17:16:29 INFO  RegistrationPageTest:32 - Clicked on Register Link
+2024-10-25 17:16:29 INFO  RegistrationPageTest:36 - Providing customer details...
+2024-10-25 17:16:29 INFO  RegistrationPageTest:40 - First Name: WCQSU
+2024-10-25 17:16:29 INFO  RegistrationPageTest:44 - Last Name: BYPUY
+2024-10-25 17:16:29 INFO  RegistrationPageTest:48 - Email: gkKoi@gmail.com
+2024-10-25 17:16:29 INFO  RegistrationPageTest:52 - Telephone: 7884852543
+2024-10-25 17:16:29 INFO  RegistrationPageTest:56 - Password: Uqq@380
+2024-10-25 17:16:29 INFO  RegistrationPageTest:61 - Selecting 'Yes' for newsletter subscription and accepting terms and conditions...
+2024-10-25 17:16:30 INFO  RegistrationPageTest:65 - Clicked on Continue button
+2024-10-25 17:16:30 INFO  RegistrationPageTest:68 - Validating expected confirmation message...
+2024-10-25 17:16:30 INFO  RegistrationPageTest:72 - Test Passed: Your Account Has Been Created!
+2024-10-25 17:16:30 INFO  RegistrationPageTest:77 - **** Finished Registration Test ****
+2024-10-25 17:16:30 INFO  RegistrationPageTest:104 - Closed the browser.
+2024-10-25 17:16:30 INFO  LoginPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:16:30 INFO  LoginPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:16:31 INFO  LoginPageTest:65 - Launching Chrome browser...
+2024-10-25 17:16:31 INFO  LoginPageTest:82 - Deleted all cookies.
+2024-10-25 17:16:31 INFO  LoginPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:16:31 INFO  LoginPageTest:89 - Maximized browser window.
+2024-10-25 17:16:34 INFO  LoginPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:16:34 INFO  LoginPageTest:22 - **** Starting Login Test ****
+2024-10-25 17:16:34 INFO  LoginPageTest:27 - Clicking on My Account link...
+2024-10-25 17:16:34 INFO  LoginPageTest:29 - Clicked on MyAccount Link
+2024-10-25 17:16:34 INFO  LoginPageTest:31 - Clicking on Login link...
+2024-10-25 17:16:34 INFO  LoginPageTest:33 - Clicked on Login Link
+2024-10-25 17:16:34 INFO  LoginPageTest:37 - Providing customer email and password
+2024-10-25 17:16:34 INFO  LoginPageTest:41 - Email provided: diweh61568@kinsef.com
+2024-10-25 17:16:34 INFO  LoginPageTest:43 - Password provided: test@123
+2024-10-25 17:16:34 INFO  LoginPageTest:45 - Clicking on Login button...
+2024-10-25 17:16:35 INFO  LoginPageTest:47 - Clicked on Login button
+2024-10-25 17:16:35 INFO  LoginPageTest:51 - Checking if My Account page exists...
+2024-10-25 17:16:35 INFO  LoginPageTest:57 - Login successful, My Account page is displayed.
+2024-10-25 17:16:35 INFO  LoginPageTest:64 - **** Finished Login Test ****
+2024-10-25 17:16:35 INFO  LoginPageTest:104 - Closed the browser.
+2024-10-25 17:16:35 INFO  LoginTestDDT:52 - Initializing WebDriver setup...
+2024-10-25 17:16:35 INFO  LoginTestDDT:59 - Loaded configuration properties from config.properties
+2024-10-25 17:16:36 INFO  LoginTestDDT:65 - Launching Chrome browser...
+2024-10-25 17:16:36 INFO  LoginTestDDT:82 - Deleted all cookies.
+2024-10-25 17:16:36 INFO  LoginTestDDT:85 - Set implicit wait and page load timeout.
+2024-10-25 17:16:36 INFO  LoginTestDDT:89 - Maximized browser window.
+2024-10-25 17:16:38 INFO  LoginTestDDT:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:16:39 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: diweh61568@kinsef.com ****
+2024-10-25 17:16:40 INFO  LoginTestDDT:49 - **** Login successful, validating logout ****
+2024-10-25 17:16:41 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: diweh61568@kinsef.com ****
+2024-10-25 17:16:41 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: laksh1256@gmail.com ****
+2024-10-25 17:16:52 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:16:52 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: laksh1256@gmail.com ****
+2024-10-25 17:16:52 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: richard786@yahoo.com ****
+2024-10-25 17:17:04 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:17:04 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: richard786@yahoo.com ****
+2024-10-25 17:17:04 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: gamlin123@rediff.com ****
+2024-10-25 17:17:16 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:17:16 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: gamlin123@rediff.com ****
+2024-10-25 17:17:16 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: sotopiy466@chainds.com ****
+2024-10-25 17:17:18 INFO  LoginTestDDT:49 - **** Login successful, validating logout ****
+2024-10-25 17:17:18 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: sotopiy466@chainds.com ****
+2024-10-25 17:17:18 INFO  LoginTestDDT:104 - Closed the browser.
+2024-10-25 17:17:18 INFO  SearchPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:17:18 INFO  SearchPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:17:19 INFO  SearchPageTest:65 - Launching Chrome browser...
+2024-10-25 17:17:19 INFO  SearchPageTest:82 - Deleted all cookies.
+2024-10-25 17:17:19 INFO  SearchPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:17:19 INFO  SearchPageTest:89 - Maximized browser window.
+2024-10-25 17:17:21 INFO  SearchPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:17:21 INFO  SearchPageTest:23 - **** Starting Product Search Test ****
+2024-10-25 17:17:21 INFO  SearchPageTest:28 - Product to be searched: iMac
+2024-10-25 17:17:21 INFO  SearchPageTest:32 - Searching for product 'iMac'...
+2024-10-25 17:17:22 INFO  SearchPageTest:36 - Search term entered: iMac
+2024-10-25 17:17:22 INFO  SearchPageTest:38 - Search submitted
+2024-10-25 17:17:22 INFO  SearchPageTest:41 - Waiting for search results to load...
+2024-10-25 17:17:27 INFO  SearchPageTest:46 - Verifying if the product 'iMac' exists in the search results
+2024-10-25 17:17:27 INFO  SearchPageTest:50 - Product existence check result: true
+2024-10-25 17:17:27 INFO  SearchPageTest:55 - Product 'iMac' is displayed in the search results
+2024-10-25 17:17:27 INFO  SearchPageTest:63 - **** Finished Product Search Test ****
+2024-10-25 17:17:27 INFO  SearchPageTest:104 - Closed the browser.
+2024-10-25 17:17:27 INFO  AddToCartPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:17:27 INFO  AddToCartPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:17:28 INFO  AddToCartPageTest:65 - Launching Chrome browser...
+2024-10-25 17:17:28 INFO  AddToCartPageTest:82 - Deleted all cookies.
+2024-10-25 17:17:28 INFO  AddToCartPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:17:28 INFO  AddToCartPageTest:89 - Maximized browser window.
+2024-10-25 17:17:32 INFO  AddToCartPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:17:32 INFO  AddToCartPageTest:22 - **** Starting Add to Cart Test ****
+2024-10-25 17:17:32 INFO  AddToCartPageTest:27 - Attempting to search for product: iMac
+2024-10-25 17:17:32 INFO  AddToCartPageTest:31 - HomePage initialized successfully
+2024-10-25 17:17:32 INFO  AddToCartPageTest:36 - Search submitted for product: iMac
+2024-10-25 17:17:34 INFO  AddToCartPageTest:43 - SearchPage initialized successfully, verifying product existence
+2024-10-25 17:17:34 INFO  AddToCartPageTest:47 - Product 'iMac' found in search results, attempting to add to cart
+2024-10-25 17:17:34 INFO  AddToCartPageTest:49 - Product added to cart successfully
+2024-10-25 17:17:37 INFO  AddToCartPageTest:55 - Navigated to the shopping cart page successfully
+2024-10-25 17:17:37 INFO  AddToCartPageTest:75 - **** Finished Add to Cart Test ****
+2024-10-25 17:17:37 INFO  AddToCartPageTest:93 - **** Starting Cart Update Test ****
+2024-10-25 17:17:37 INFO  AddToCartPageTest:97 - AddToCartPage initialized successfully
+2024-10-25 17:17:37 INFO  AddToCartPageTest:105 - Product quantity updated to: 2
+2024-10-25 17:17:38 INFO  AddToCartPageTest:111 - Shipping details set - Country: India, State: Orissa, Postcode: 754109
+2024-10-25 17:17:38 INFO  AddToCartPageTest:114 - Shipping quote retrieved successfully
+2024-10-25 17:17:39 INFO  AddToCartPageTest:119 - Shipping method applied successfully
+2024-10-25 17:17:39 INFO  AddToCartPageTest:125 - Continued shopping after updating cart details
+2024-10-25 17:17:39 INFO  AddToCartPageTest:136 - **** Finished Cart Update Test ****
+2024-10-25 17:17:39 INFO  AddToCartPageTest:104 - Closed the browser.
+2024-10-25 17:17:39 INFO  RegistrationPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:17:39 INFO  RegistrationPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:17:42 INFO  RegistrationPageTest:69 - Launching Edge browser...
+2024-10-25 17:17:42 INFO  RegistrationPageTest:82 - Deleted all cookies.
+2024-10-25 17:17:42 INFO  RegistrationPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:17:42 INFO  RegistrationPageTest:89 - Maximized browser window.
+2024-10-25 17:17:44 INFO  RegistrationPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:17:44 INFO  RegistrationPageTest:21 - **** Starting Registration Test ****
+2024-10-25 17:17:44 INFO  RegistrationPageTest:26 - Clicking on My Account link...
+2024-10-25 17:17:44 INFO  RegistrationPageTest:28 - Clicked on MyAccount Link
+2024-10-25 17:17:44 INFO  RegistrationPageTest:30 - Clicking on Register link...
+2024-10-25 17:17:45 INFO  RegistrationPageTest:32 - Clicked on Register Link
+2024-10-25 17:17:45 INFO  RegistrationPageTest:36 - Providing customer details...
+2024-10-25 17:17:45 INFO  RegistrationPageTest:40 - First Name: XWXZR
+2024-10-25 17:17:45 INFO  RegistrationPageTest:44 - Last Name: VEKEE
+2024-10-25 17:17:45 INFO  RegistrationPageTest:48 - Email: ESHYt@gmail.com
+2024-10-25 17:17:45 INFO  RegistrationPageTest:52 - Telephone: 5163091757
+2024-10-25 17:17:45 INFO  RegistrationPageTest:56 - Password: PJS@375
+2024-10-25 17:17:45 INFO  RegistrationPageTest:61 - Selecting 'Yes' for newsletter subscription and accepting terms and conditions...
+2024-10-25 17:17:46 INFO  RegistrationPageTest:65 - Clicked on Continue button
+2024-10-25 17:17:46 INFO  RegistrationPageTest:68 - Validating expected confirmation message...
+2024-10-25 17:17:46 INFO  RegistrationPageTest:72 - Test Passed: Your Account Has Been Created!
+2024-10-25 17:17:46 INFO  RegistrationPageTest:77 - **** Finished Registration Test ****
+2024-10-25 17:17:46 INFO  RegistrationPageTest:104 - Closed the browser.
+2024-10-25 17:17:46 INFO  LoginPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:17:46 INFO  LoginPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:17:49 INFO  LoginPageTest:69 - Launching Edge browser...
+2024-10-25 17:17:49 INFO  LoginPageTest:82 - Deleted all cookies.
+2024-10-25 17:17:49 INFO  LoginPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:17:49 INFO  LoginPageTest:89 - Maximized browser window.
+2024-10-25 17:17:52 INFO  LoginPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:17:52 INFO  LoginPageTest:22 - **** Starting Login Test ****
+2024-10-25 17:17:52 INFO  LoginPageTest:27 - Clicking on My Account link...
+2024-10-25 17:17:52 INFO  LoginPageTest:29 - Clicked on MyAccount Link
+2024-10-25 17:17:52 INFO  LoginPageTest:31 - Clicking on Login link...
+2024-10-25 17:17:52 INFO  LoginPageTest:33 - Clicked on Login Link
+2024-10-25 17:17:52 INFO  LoginPageTest:37 - Providing customer email and password
+2024-10-25 17:17:52 INFO  LoginPageTest:41 - Email provided: diweh61568@kinsef.com
+2024-10-25 17:17:52 INFO  LoginPageTest:43 - Password provided: test@123
+2024-10-25 17:17:52 INFO  LoginPageTest:45 - Clicking on Login button...
+2024-10-25 17:17:53 INFO  LoginPageTest:47 - Clicked on Login button
+2024-10-25 17:17:53 INFO  LoginPageTest:51 - Checking if My Account page exists...
+2024-10-25 17:17:53 INFO  LoginPageTest:57 - Login successful, My Account page is displayed.
+2024-10-25 17:17:53 INFO  LoginPageTest:64 - **** Finished Login Test ****
+2024-10-25 17:17:53 INFO  LoginPageTest:104 - Closed the browser.
+2024-10-25 17:17:53 INFO  LoginTestDDT:52 - Initializing WebDriver setup...
+2024-10-25 17:17:53 INFO  LoginTestDDT:59 - Loaded configuration properties from config.properties
+2024-10-25 17:17:56 INFO  LoginTestDDT:69 - Launching Edge browser...
+2024-10-25 17:17:56 INFO  LoginTestDDT:82 - Deleted all cookies.
+2024-10-25 17:17:56 INFO  LoginTestDDT:85 - Set implicit wait and page load timeout.
+2024-10-25 17:17:56 INFO  LoginTestDDT:89 - Maximized browser window.
+2024-10-25 17:17:59 INFO  LoginTestDDT:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:17:59 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: diweh61568@kinsef.com ****
+2024-10-25 17:18:01 INFO  LoginTestDDT:49 - **** Login successful, validating logout ****
+2024-10-25 17:18:01 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: diweh61568@kinsef.com ****
+2024-10-25 17:18:01 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: laksh1256@gmail.com ****
+2024-10-25 17:18:13 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:18:13 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: laksh1256@gmail.com ****
+2024-10-25 17:18:13 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: richard786@yahoo.com ****
+2024-10-25 17:18:24 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:18:24 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: richard786@yahoo.com ****
+2024-10-25 17:18:24 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: gamlin123@rediff.com ****
+2024-10-25 17:18:36 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:18:36 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: gamlin123@rediff.com ****
+2024-10-25 17:18:36 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: sotopiy466@chainds.com ****
+2024-10-25 17:18:38 INFO  LoginTestDDT:49 - **** Login successful, validating logout ****
+2024-10-25 17:18:38 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: sotopiy466@chainds.com ****
+2024-10-25 17:18:38 INFO  LoginTestDDT:104 - Closed the browser.
+2024-10-25 17:18:38 INFO  SearchPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:18:38 INFO  SearchPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:18:41 INFO  SearchPageTest:69 - Launching Edge browser...
+2024-10-25 17:18:41 INFO  SearchPageTest:82 - Deleted all cookies.
+2024-10-25 17:18:41 INFO  SearchPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:18:41 INFO  SearchPageTest:89 - Maximized browser window.
+2024-10-25 17:18:43 INFO  SearchPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:18:43 INFO  SearchPageTest:23 - **** Starting Product Search Test ****
+2024-10-25 17:18:43 INFO  SearchPageTest:28 - Product to be searched: iMac
+2024-10-25 17:18:43 INFO  SearchPageTest:32 - Searching for product 'iMac'...
+2024-10-25 17:18:43 INFO  SearchPageTest:36 - Search term entered: iMac
+2024-10-25 17:18:44 INFO  SearchPageTest:38 - Search submitted
+2024-10-25 17:18:44 INFO  SearchPageTest:41 - Waiting for search results to load...
+2024-10-25 17:18:49 INFO  SearchPageTest:46 - Verifying if the product 'iMac' exists in the search results
+2024-10-25 17:18:49 INFO  SearchPageTest:50 - Product existence check result: true
+2024-10-25 17:18:49 INFO  SearchPageTest:55 - Product 'iMac' is displayed in the search results
+2024-10-25 17:18:49 INFO  SearchPageTest:63 - **** Finished Product Search Test ****
+2024-10-25 17:18:49 INFO  SearchPageTest:104 - Closed the browser.
+2024-10-25 17:18:49 INFO  AddToCartPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:18:49 INFO  AddToCartPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:18:52 INFO  AddToCartPageTest:69 - Launching Edge browser...
+2024-10-25 17:18:52 INFO  AddToCartPageTest:82 - Deleted all cookies.
+2024-10-25 17:18:52 INFO  AddToCartPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:18:52 INFO  AddToCartPageTest:89 - Maximized browser window.
+2024-10-25 17:18:54 INFO  AddToCartPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:18:54 INFO  AddToCartPageTest:22 - **** Starting Add to Cart Test ****
+2024-10-25 17:18:54 INFO  AddToCartPageTest:27 - Attempting to search for product: iMac
+2024-10-25 17:18:54 INFO  AddToCartPageTest:31 - HomePage initialized successfully
+2024-10-25 17:18:54 INFO  AddToCartPageTest:36 - Search submitted for product: iMac
+2024-10-25 17:18:56 INFO  AddToCartPageTest:43 - SearchPage initialized successfully, verifying product existence
+2024-10-25 17:18:56 INFO  AddToCartPageTest:47 - Product 'iMac' found in search results, attempting to add to cart
+2024-10-25 17:18:56 INFO  AddToCartPageTest:49 - Product added to cart successfully
+2024-10-25 17:18:59 INFO  AddToCartPageTest:55 - Navigated to the shopping cart page successfully
+2024-10-25 17:18:59 INFO  AddToCartPageTest:75 - **** Finished Add to Cart Test ****
+2024-10-25 17:18:59 INFO  AddToCartPageTest:93 - **** Starting Cart Update Test ****
+2024-10-25 17:18:59 INFO  AddToCartPageTest:97 - AddToCartPage initialized successfully
+2024-10-25 17:18:59 INFO  AddToCartPageTest:105 - Product quantity updated to: 2
+2024-10-25 17:19:00 INFO  AddToCartPageTest:111 - Shipping details set - Country: India, State: Orissa, Postcode: 754109
+2024-10-25 17:19:00 INFO  AddToCartPageTest:114 - Shipping quote retrieved successfully
+2024-10-25 17:19:01 INFO  AddToCartPageTest:119 - Shipping method applied successfully
+2024-10-25 17:19:01 INFO  AddToCartPageTest:125 - Continued shopping after updating cart details
+2024-10-25 17:19:01 INFO  AddToCartPageTest:136 - **** Finished Cart Update Test ****
+2024-10-25 17:19:02 INFO  AddToCartPageTest:104 - Closed the browser.
+2024-10-25 17:19:02 INFO  RegistrationPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:19:02 INFO  RegistrationPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:19:06 INFO  RegistrationPageTest:73 - Launching Firefox browser...
+2024-10-25 17:19:06 INFO  RegistrationPageTest:82 - Deleted all cookies.
+2024-10-25 17:19:06 INFO  RegistrationPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:19:06 INFO  RegistrationPageTest:89 - Maximized browser window.
+2024-10-25 17:19:10 INFO  RegistrationPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:19:10 INFO  RegistrationPageTest:21 - **** Starting Registration Test ****
+2024-10-25 17:19:10 INFO  RegistrationPageTest:26 - Clicking on My Account link...
+2024-10-25 17:19:11 INFO  RegistrationPageTest:28 - Clicked on MyAccount Link
+2024-10-25 17:19:11 INFO  RegistrationPageTest:30 - Clicking on Register link...
+2024-10-25 17:19:11 INFO  RegistrationPageTest:32 - Clicked on Register Link
+2024-10-25 17:19:11 INFO  RegistrationPageTest:36 - Providing customer details...
+2024-10-25 17:19:11 INFO  RegistrationPageTest:40 - First Name: VWSQP
+2024-10-25 17:19:11 INFO  RegistrationPageTest:44 - Last Name: NZSYX
+2024-10-25 17:19:12 INFO  RegistrationPageTest:48 - Email: MtyGt@gmail.com
+2024-10-25 17:19:12 INFO  RegistrationPageTest:52 - Telephone: 1032912338
+2024-10-25 17:19:12 INFO  RegistrationPageTest:56 - Password: QJI@388
+2024-10-25 17:19:12 INFO  RegistrationPageTest:61 - Selecting 'Yes' for newsletter subscription and accepting terms and conditions...
+2024-10-25 17:19:12 INFO  RegistrationPageTest:65 - Clicked on Continue button
+2024-10-25 17:19:12 INFO  RegistrationPageTest:68 - Validating expected confirmation message...
+2024-10-25 17:19:13 INFO  RegistrationPageTest:72 - Test Passed: Your Account Has Been Created!
+2024-10-25 17:19:13 INFO  RegistrationPageTest:77 - **** Finished Registration Test ****
+2024-10-25 17:19:14 INFO  RegistrationPageTest:104 - Closed the browser.
+2024-10-25 17:19:14 INFO  LoginPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:19:14 INFO  LoginPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:19:17 INFO  LoginPageTest:73 - Launching Firefox browser...
+2024-10-25 17:19:17 INFO  LoginPageTest:82 - Deleted all cookies.
+2024-10-25 17:19:17 INFO  LoginPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:19:17 INFO  LoginPageTest:89 - Maximized browser window.
+2024-10-25 17:19:19 INFO  LoginPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:19:19 INFO  LoginPageTest:22 - **** Starting Login Test ****
+2024-10-25 17:19:19 INFO  LoginPageTest:27 - Clicking on My Account link...
+2024-10-25 17:19:20 INFO  LoginPageTest:29 - Clicked on MyAccount Link
+2024-10-25 17:19:20 INFO  LoginPageTest:31 - Clicking on Login link...
+2024-10-25 17:19:20 INFO  LoginPageTest:33 - Clicked on Login Link
+2024-10-25 17:19:20 INFO  LoginPageTest:37 - Providing customer email and password
+2024-10-25 17:19:20 INFO  LoginPageTest:41 - Email provided: diweh61568@kinsef.com
+2024-10-25 17:19:20 INFO  LoginPageTest:43 - Password provided: test@123
+2024-10-25 17:19:20 INFO  LoginPageTest:45 - Clicking on Login button...
+2024-10-25 17:19:21 INFO  LoginPageTest:47 - Clicked on Login button
+2024-10-25 17:19:21 INFO  LoginPageTest:51 - Checking if My Account page exists...
+2024-10-25 17:19:21 INFO  LoginPageTest:57 - Login successful, My Account page is displayed.
+2024-10-25 17:19:21 INFO  LoginPageTest:64 - **** Finished Login Test ****
+2024-10-25 17:19:22 INFO  LoginPageTest:104 - Closed the browser.
+2024-10-25 17:19:22 INFO  LoginTestDDT:52 - Initializing WebDriver setup...
+2024-10-25 17:19:22 INFO  LoginTestDDT:59 - Loaded configuration properties from config.properties
+2024-10-25 17:19:25 INFO  LoginTestDDT:73 - Launching Firefox browser...
+2024-10-25 17:19:25 INFO  LoginTestDDT:82 - Deleted all cookies.
+2024-10-25 17:19:25 INFO  LoginTestDDT:85 - Set implicit wait and page load timeout.
+2024-10-25 17:19:25 INFO  LoginTestDDT:89 - Maximized browser window.
+2024-10-25 17:19:27 INFO  LoginTestDDT:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:19:27 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: diweh61568@kinsef.com ****
+2024-10-25 17:19:29 INFO  LoginTestDDT:49 - **** Login successful, validating logout ****
+2024-10-25 17:19:29 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: diweh61568@kinsef.com ****
+2024-10-25 17:19:29 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: laksh1256@gmail.com ****
+2024-10-25 17:19:41 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:19:41 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: laksh1256@gmail.com ****
+2024-10-25 17:19:41 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: richard786@yahoo.com ****
+2024-10-25 17:19:52 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:19:52 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: richard786@yahoo.com ****
+2024-10-25 17:19:52 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: gamlin123@rediff.com ****
+2024-10-25 17:20:03 INFO  LoginTestDDT:62 - **** Login failed as expected for invalid credentials ****
+2024-10-25 17:20:03 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: gamlin123@rediff.com ****
+2024-10-25 17:20:03 INFO  LoginTestDDT:28 - **** Starting LoginPageDDT test with email: sotopiy466@chainds.com ****
+2024-10-25 17:20:05 INFO  LoginTestDDT:49 - **** Login successful, validating logout ****
+2024-10-25 17:20:05 INFO  LoginTestDDT:71 - **** Finished LoginPageDDT test for email: sotopiy466@chainds.com ****
+2024-10-25 17:20:06 INFO  LoginTestDDT:104 - Closed the browser.
+2024-10-25 17:20:06 INFO  SearchPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:20:06 INFO  SearchPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:20:09 INFO  SearchPageTest:73 - Launching Firefox browser...
+2024-10-25 17:20:09 INFO  SearchPageTest:82 - Deleted all cookies.
+2024-10-25 17:20:09 INFO  SearchPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:20:10 INFO  SearchPageTest:89 - Maximized browser window.
+2024-10-25 17:20:11 INFO  SearchPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:20:11 INFO  SearchPageTest:23 - **** Starting Product Search Test ****
+2024-10-25 17:20:11 INFO  SearchPageTest:28 - Product to be searched: iMac
+2024-10-25 17:20:11 INFO  SearchPageTest:32 - Searching for product 'iMac'...
+2024-10-25 17:20:12 INFO  SearchPageTest:36 - Search term entered: iMac
+2024-10-25 17:20:12 INFO  SearchPageTest:38 - Search submitted
+2024-10-25 17:20:12 INFO  SearchPageTest:41 - Waiting for search results to load...
+2024-10-25 17:20:17 INFO  SearchPageTest:46 - Verifying if the product 'iMac' exists in the search results
+2024-10-25 17:20:17 INFO  SearchPageTest:50 - Product existence check result: true
+2024-10-25 17:20:17 INFO  SearchPageTest:55 - Product 'iMac' is displayed in the search results
+2024-10-25 17:20:17 INFO  SearchPageTest:63 - **** Finished Product Search Test ****
+2024-10-25 17:20:18 INFO  SearchPageTest:104 - Closed the browser.
+2024-10-25 17:20:18 INFO  AddToCartPageTest:52 - Initializing WebDriver setup...
+2024-10-25 17:20:18 INFO  AddToCartPageTest:59 - Loaded configuration properties from config.properties
+2024-10-25 17:20:21 INFO  AddToCartPageTest:73 - Launching Firefox browser...
+2024-10-25 17:20:21 INFO  AddToCartPageTest:82 - Deleted all cookies.
+2024-10-25 17:20:21 INFO  AddToCartPageTest:85 - Set implicit wait and page load timeout.
+2024-10-25 17:20:21 INFO  AddToCartPageTest:89 - Maximized browser window.
+2024-10-25 17:20:23 INFO  AddToCartPageTest:91 - Navigated to URL: https://tutorialsninja.com/demo/
+2024-10-25 17:20:23 INFO  AddToCartPageTest:22 - **** Starting Add to Cart Test ****
+2024-10-25 17:20:23 INFO  AddToCartPageTest:27 - Attempting to search for product: iMac
+2024-10-25 17:20:23 INFO  AddToCartPageTest:31 - HomePage initialized successfully
+2024-10-25 17:20:24 INFO  AddToCartPageTest:36 - Search submitted for product: iMac
+2024-10-25 17:20:26 INFO  AddToCartPageTest:43 - SearchPage initialized successfully, verifying product existence
+2024-10-25 17:20:26 INFO  AddToCartPageTest:47 - Product 'iMac' found in search results, attempting to add to cart
+2024-10-25 17:20:26 INFO  AddToCartPageTest:49 - Product added to cart successfully
+2024-10-25 17:20:29 INFO  AddToCartPageTest:55 - Navigated to the shopping cart page successfully
+2024-10-25 17:20:29 INFO  AddToCartPageTest:75 - **** Finished Add to Cart Test ****
+2024-10-25 17:20:29 INFO  AddToCartPageTest:93 - **** Starting Cart Update Test ****
+2024-10-25 17:20:29 INFO  AddToCartPageTest:97 - AddToCartPage initialized successfully
+2024-10-25 17:20:29 INFO  AddToCartPageTest:105 - Product quantity updated to: 2
+2024-10-25 17:20:29 INFO  AddToCartPageTest:111 - Shipping details set - Country: India, State: Orissa, Postcode: 754109
+2024-10-25 17:20:30 INFO  AddToCartPageTest:114 - Shipping quote retrieved successfully
+2024-10-25 17:20:31 INFO  AddToCartPageTest:119 - Shipping method applied successfully
+2024-10-25 17:20:31 INFO  AddToCartPageTest:125 - Continued shopping after updating cart details
+2024-10-25 17:20:31 INFO  AddToCartPageTest:136 - **** Finished Cart Update Test ****
+2024-10-25 17:20:32 INFO  AddToCartPageTest:104 - Closed the browser.
