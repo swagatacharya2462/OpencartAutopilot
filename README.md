@@ -5,6 +5,9 @@ OpencartAutopilot is an automated testing framework for the OpenCart Demo websit
 Key Features:
 
 End-to-End Test Scenarios: These scenarios cover essential user flows, including product search, cart management, user login, and checkout.
+
 Parameterization and Flexibility: Tests are designed with optional parameters for easy configuration.
+
 Modular Structure: Organized for easy test case management and scalability.
+
 Seamless Setup and Execution: This has straightforward instructions for setting up and executing tests.
